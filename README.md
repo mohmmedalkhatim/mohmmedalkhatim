@@ -7,7 +7,7 @@
     
     ### 
     
-- my main skills are around problem solving & ui desgin  I like rust, have been always in computer apps but I didn't like c# at allI currently working on new project for productivity and I do research about growth mindset as hoppy from time to time 
+- my main skills are around problem solving & ui desgin  I like rust, have been always interested computer apps but I didn't like c# at allI currently working on new project for productivity and I do research about growth mindset as hoppy from time to time 
     ###  links
     [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mohamed-alkhatim.web.app/)
     [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohmmed-alkhatm-3b5b49303/)
