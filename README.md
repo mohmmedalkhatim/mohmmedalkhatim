@@ -15,5 +15,5 @@
     ###  about_me
    - I'm a full stack developer I do make website and manage       servers not for big project but for modim size 
     - my stack are simple react and firebase and I can work with wordpress
-    - I do make api with node and rust but not that often
+    - I do make api with node or rust but not that often
     
