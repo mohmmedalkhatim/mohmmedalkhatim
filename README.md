@@ -1,14 +1,14 @@
-    >> # Hi, I'm Mohammed Alkhatim 👋
+    >>  Hi, I'm Mohammed Alkhatim 👋
 Full-stack developer focused on app development and productivity tools. I build with **React**, **Rust**, and **Tauri**, and I like shipping things that work on desktop and mobile from one codebase.
 
-    >> ## What I'm working on
+    >> What I'm working on
 
 - 🖥️ A desktop application built with **Tauri** and **React**
 - 📱 Cross-platform apps with **Tauri v2**, targeting desktop and Android
 - 🔌 Native plugins in **Rust** (e.g. a cross-platform local notifications plugin)
 - 🎥 Launching **Code Compass**, a coding YouTube channel
 
-      >> ##  What I do
+      >> What I do
 
 I build websites, web apps, and APIs, and I manage the servers they run on, from small business sites to full-stack products.
 
@@ -18,7 +18,7 @@ I build websites, web apps, and APIs, and I manage the servers they run on, from
 - **Infrastructure:** AWS (EC2), Docker, Caddy, PM2
 - **CMS:** WordPress
 
-      >> ## Tech stack
+      >> Tech stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,11 +35,11 @@ I build websites, web apps, and APIs, and I manage the servers they run on, from
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
-    >> ## My setup
+    >> My setup
 
 **Omarchy** (Arch Linux) with **Hyprland**, and **Neovim** as my editor.
 
-    >> ## Links
+    >> Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mohamed-alkhatim.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohmmed-alkhatm-3b5b49303/)
